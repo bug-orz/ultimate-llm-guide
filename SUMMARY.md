@@ -20,8 +20,18 @@
   * [Encoder-decoder](llm/mo-xing-jie-gou/encoder-decoder.md)
   * [Decoder-only](llm/mo-xing-jie-gou/decoder-only.md)
   * [MOE](llm/mo-xing-jie-gou/moe.md)
+  * [常见大模型](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/README.md)
+    * [T5](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/t5.md)
+    * [GPT2](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/gpt2.md)
+    * [LLaMA](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/llama.md)
+    * [LLaMA 2](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/llama-2.md)
+    * [Mistral](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/mistral.md)
+    * [GLM](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/glm.md)
+    * [Mixture](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/mixture.md)
 * [预训练](llm/yu-xun-lian.md)
-* [微调](llm/wei-tiao.md)
+* [微调](llm/wei-tiao/README.md)
+  * [Instruction Tuning 指令微调](llm/wei-tiao/instruction-tuning-zhi-ling-wei-tiao.md)
+  * [Domain Finetune 领域微调](llm/wei-tiao/domain-finetune-ling-yu-wei-tiao.md)
 * [解码](llm/jie-ma.md)
 * [知识边界](llm/zhi-shi-bian-jie.md)
 
@@ -42,8 +52,13 @@
 
 ## 大模型轻量化
 
-* [Page 4](da-mo-xing-qing-liang-hua/page-4/README.md)
-  * [Page 5](da-mo-xing-qing-liang-hua/page-4/page-5.md)
+* [轻量化微调](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/README.md)
+  * [LoRA](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/lora.md)
+* [量化](da-mo-xing-qing-liang-hua/liang-hua.md)
+* [剪枝](da-mo-xing-qing-liang-hua/jian-zhi.md)
+* [Deepspeed](da-mo-xing-qing-liang-hua/deepspeed.md)
+* [Megatron](da-mo-xing-qing-liang-hua/megatron.md)
+* [参考资料](da-mo-xing-qing-liang-hua/can-kao-zi-liao.md)
 
 ## 多智能体 <a href="#agent" id="agent"></a>
 
@@ -56,3 +71,7 @@
 ## 多模态大模型 <a href="#mllm" id="mllm"></a>
 
 * [Page 1](mllm/page-1.md)
+
+***
+
+* [大模型安全与鲁棒](da-mo-xing-an-quan-yu-lu-bang.md)
