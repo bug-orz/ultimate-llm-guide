@@ -20,13 +20,21 @@
   * [Encoder-decoder](llm/mo-xing-jie-gou/encoder-decoder.md)
   * [Decoder-only](llm/mo-xing-jie-gou/decoder-only.md)
   * [MOE](llm/mo-xing-jie-gou/moe.md)
+* [预训练](llm/yu-xun-lian.md)
 * [微调](llm/wei-tiao.md)
 * [解码](llm/jie-ma.md)
 * [知识边界](llm/zhi-shi-bian-jie.md)
 
 ## Prompt 工程 <a href="#prompt" id="prompt"></a>
 
-* [Page 2](prompt/page-2.md)
+* [Prompt， 一种技术路线](prompt/prompt-yi-zhong-ji-shu-lu-xian.md)
+* [Prompt 写作规范](prompt/prompt-xie-zuo-gui-fan.md)
+* [In-Context Learning](prompt/in-context-learning.md)
+* [Chain-of-Thought](prompt/chain-of-thought.md)
+* [Generate Rather than Read](prompt/generate-rather-than-read.md)
+* [Program-of-Thought](prompt/program-of-thought.md)
+* [Tree-of-Thought](prompt/tree-of-thought.md)
+* [参考资料](prompt/can-kao-zi-liao.md)
 
 ## RAG-大模型检索 <a href="#rag" id="rag"></a>
 
