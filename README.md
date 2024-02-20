@@ -10,9 +10,9 @@ coverY: 0
 
 在线阅读：[https://ultimate-llm.gitbook.io/](https://ultimate-llm.gitbook.io/)
 
-GitHub：[https://github.com/bug-orz/ultimate-llm-guide](https://github.com/bug-orz/ultimate-llm-guide)
+GitHub：[https://github.com/bug-orz/ultimate-llm-guide/](https://github.com/bug-orz/ultimate-llm-guide/)
 
-欢迎👏个我们一个star或是贡献本项目
+欢迎👏给我们一个star或是贡献本项目
 
 ### 参考资料
 
