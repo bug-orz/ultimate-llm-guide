@@ -28,7 +28,7 @@
     * [Mistral](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/mistral.md)
     * [GLM](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/glm.md)
     * [Mixture](llm/mo-xing-jie-gou/chang-jian-da-mo-xing/mixture.md)
-* [预训练](llm/yu-xun-lian.md)
+* [如何训练一个ChatGPT](llm/ru-he-xun-lian-yi-ge-chatgpt.md)
 * [微调](llm/wei-tiao/README.md)
   * [Instruction Tuning 指令微调](llm/wei-tiao/instruction-tuning-zhi-ling-wei-tiao.md)
   * [Domain Finetune 领域微调](llm/wei-tiao/domain-finetune-ling-yu-wei-tiao.md)
@@ -46,9 +46,17 @@
 * [Tree-of-Thought](prompt/tree-of-thought.md)
 * [参考资料](prompt/can-kao-zi-liao.md)
 
-## RAG-大模型检索 <a href="#rag" id="rag"></a>
+## 大规模预训练
 
-* [Page 3](rag/page-3.md)
+* [计算资源消耗](da-gui-mo-yu-xun-lian/ji-suan-zi-yuan-xiao-hao.md)
+* [Deepspeed](da-gui-mo-yu-xun-lian/deepspeed.md)
+* [Megatron](da-gui-mo-yu-xun-lian/megatron.md)
+* [大规模数据处理](da-gui-mo-yu-xun-lian/da-gui-mo-shu-ju-chu-li.md)
+* [CUDA 算子优化](da-gui-mo-yu-xun-lian/cuda-suan-zi-you-hua.md)
+
+## 强化学习 <a href="#reinforcement-learning" id="reinforcement-learning"></a>
+
+* [RLHF](reinforcement-learning/rlhf.md)
 
 ## 大模型轻量化
 
@@ -56,17 +64,15 @@
   * [LoRA](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/lora.md)
 * [量化](da-mo-xing-qing-liang-hua/liang-hua.md)
 * [剪枝](da-mo-xing-qing-liang-hua/jian-zhi.md)
-* [Deepspeed](da-mo-xing-qing-liang-hua/deepspeed.md)
-* [Megatron](da-mo-xing-qing-liang-hua/megatron.md)
 * [参考资料](da-mo-xing-qing-liang-hua/can-kao-zi-liao.md)
+
+## RAG-大模型检索 <a href="#rag" id="rag"></a>
+
+* [Page 3](rag/page-3.md)
 
 ## 多智能体 <a href="#agent" id="agent"></a>
 
 * [Page 6](agent/page-6.md)
-
-## 强化学习 <a href="#reinforcement-learning" id="reinforcement-learning"></a>
-
-* [RLHF](reinforcement-learning/rlhf.md)
 
 ## 多模态大模型 <a href="#mllm" id="mllm"></a>
 

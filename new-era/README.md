@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 大语言模型时代的NLP
 
 在大语言模型时代，自然语言处理（NLP）的处理范式已经发生了革命性的变化。
