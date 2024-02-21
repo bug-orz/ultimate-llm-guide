@@ -1,6 +1,7 @@
 # Table of contents
 
 * [大语言模型的终极之路](README.md)
+* [更新计划](geng-xin-ji-hua.md)
 * [大语言模型时代的NLP](new-era/README.md)
   * [任务与评测](new-era/ren-wu-yu-ping-ce.md)
   * [参考资料](new-era/can-kao-zi-liao.md)
