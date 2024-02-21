@@ -65,6 +65,7 @@
   * [LoRA](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/lora.md)
 * [量化](da-mo-xing-qing-liang-hua/liang-hua.md)
 * [剪枝](da-mo-xing-qing-liang-hua/jian-zhi.md)
+* [推理加速](da-mo-xing-qing-liang-hua/tui-li-jia-su.md)
 * [参考资料](da-mo-xing-qing-liang-hua/can-kao-zi-liao.md)
 
 ## RAG-大模型检索 <a href="#rag" id="rag"></a>
