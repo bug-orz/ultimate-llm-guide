@@ -8,6 +8,7 @@
 
 ## 基础知识 <a href="#basic" id="basic"></a>
 
+* [负对数似然](basic/fu-dui-shu-si-ran.md)
 * [Transformer](basic/transformer/README.md)
   * [Attention Block](basic/transformer/attention-block.md)
 
