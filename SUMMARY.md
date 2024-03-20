@@ -62,6 +62,10 @@
 
 ## 大模型轻量化
 
+* [蒸馏](da-mo-xing-qing-liang-hua/zheng-liu/README.md)
+  * [黑盒蒸馏](da-mo-xing-qing-liang-hua/zheng-liu/hei-he-zheng-liu.md)
+  * [白盒蒸馏](da-mo-xing-qing-liang-hua/zheng-liu/bai-he-zheng-liu/README.md)
+    * [KL 散度](da-mo-xing-qing-liang-hua/zheng-liu/bai-he-zheng-liu/kl-san-du.md)
 * [轻量化微调](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/README.md)
   * [LoRA](da-mo-xing-qing-liang-hua/qing-liang-hua-wei-tiao/lora.md)
 * [量化](da-mo-xing-qing-liang-hua/liang-hua.md)
