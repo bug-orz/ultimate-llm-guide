@@ -36,7 +36,6 @@
   * [Instruction Tuning 指令微调](llm/wei-tiao/instruction-tuning-zhi-ling-wei-tiao.md)
   * [Domain Finetune 领域微调](llm/wei-tiao/domain-finetune-ling-yu-wei-tiao.md)
 * [解码](llm/jie-ma.md)
-* [知识边界](llm/zhi-shi-bian-jie.md)
 
 ## Prompt 工程 <a href="#prompt" id="prompt"></a>
 
@@ -48,6 +47,11 @@
 * [Program-of-Thought](prompt/program-of-thought.md)
 * [Tree-of-Thought](prompt/tree-of-thought.md)
 * [参考资料](prompt/can-kao-zi-liao.md)
+
+***
+
+* [知识与幻觉](zhi-shi-yu-huan-jue/README.md)
+  * [知识边界](zhi-shi-yu-huan-jue/zhi-shi-bian-jie.md)
 
 ## 大规模预训练
 
