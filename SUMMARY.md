@@ -20,6 +20,8 @@
   * [The Bitter Lesson](llm/da-mo-xing-li-lun/the-bitter-lesson.md)
   * [思考，快与慢](llm/da-mo-xing-li-lun/si-kao-kuai-yu-man.md)
 * [模型结构](llm/mo-xing-jie-gou/README.md)
+  * [Rotary Embedding](llm/mo-xing-jie-gou/rotary-embedding.md)
+  * [RMSNorm](llm/mo-xing-jie-gou/rmsnorm.md)
   * [Encoder-decoder](llm/mo-xing-jie-gou/encoder-decoder.md)
   * [Decoder-only](llm/mo-xing-jie-gou/decoder-only.md)
   * [MOE](llm/mo-xing-jie-gou/moe.md)
