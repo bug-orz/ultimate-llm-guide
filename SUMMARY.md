@@ -10,6 +10,7 @@
 
 * [负对数似然](basic/fu-dui-shu-si-ran.md)
 * [Transformer](basic/transformer/README.md)
+  * [Cross Attention](basic/transformer/cross-attention.md)
   * [向量流动视角](basic/transformer/xiang-liang-liu-dong-shi-jiao.md)
   * [Layer Normalization](basic/transformer/layer-normalization.md)
   * [Attention Block](basic/transformer/attention-block.md)
