@@ -14,8 +14,9 @@
   * [向量流动视角](basic/transformer/xiang-liang-liu-dong-shi-jiao.md)
   * [Layer Normalization](basic/transformer/layer-normalization.md)
   * [Attention Block](basic/transformer/attention-block.md)
-* [Page](basic/page.md)
-* [优化算法](basic/you-hua-suan-fa.md)
+* [优化算法](basic/you-hua-suan-fa/README.md)
+  * [牛顿法](basic/you-hua-suan-fa/niu-dun-fa.md)
+  * [梯度下降](basic/you-hua-suan-fa/ti-du-xia-jiang.md)
 
 ## 大语言模型 <a href="#llm" id="llm"></a>
 
@@ -44,6 +45,7 @@
   * [Domain Finetune 领域微调](llm/wei-tiao/domain-finetune-ling-yu-wei-tiao.md)
 * [解码](llm/jie-ma/README.md)
   * [温度采样](llm/jie-ma/wen-du-cai-yang.md)
+  * [Beam Search Decoding](llm/jie-ma/beam-search-decoding.md)
 
 ## Prompt 工程 <a href="#prompt" id="prompt"></a>
 
