@@ -42,7 +42,8 @@
 * [微调](llm/wei-tiao/README.md)
   * [Instruction Tuning 指令微调](llm/wei-tiao/instruction-tuning-zhi-ling-wei-tiao.md)
   * [Domain Finetune 领域微调](llm/wei-tiao/domain-finetune-ling-yu-wei-tiao.md)
-* [解码](llm/jie-ma.md)
+* [解码](llm/jie-ma/README.md)
+  * [温度采样](llm/jie-ma/wen-du-cai-yang.md)
 
 ## Prompt 工程 <a href="#prompt" id="prompt"></a>
 
