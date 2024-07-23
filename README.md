@@ -14,11 +14,7 @@ GitHub：[https://github.com/bug-orz/ultimate-llm-guide/](https://github.com/bug
 
 欢迎👏给我们一个star或是贡献本项目
 
-### 近期更新计划
 
-{% content-ref url="geng-xin-ji-hua.md" %}
-[geng-xin-ji-hua.md](geng-xin-ji-hua.md)
-{% endcontent-ref %}
 
 ### 参考资料
 
