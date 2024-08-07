@@ -73,7 +73,8 @@
 
 ## 强化学习 <a href="#reinforcement-learning" id="reinforcement-learning"></a>
 
-* [RLHF](reinforcement-learning/rlhf.md)
+* [RLHF](reinforcement-learning/rlhf/README.md)
+  * [RLHF](reinforcement-learning/rlhf/rlhf.md)
 
 ## 大模型轻量化
 
